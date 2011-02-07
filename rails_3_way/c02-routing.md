@@ -56,7 +56,7 @@ Constraints can be bundled within a scope:
       end
     end
   
-Constraints can be objectified given a method `matches?`. I did not know this. I'd usually through the regular expression into a variable for reuse:
+Constraints can be objectified given a method `matches?`. I did not know this. I'd usually throw the regular expression into a variable for reuse:
 
     class DateFormatConstraint
       def self.matches?(request)
