@@ -1,4 +1,4 @@
-I usually just explicit write the migration methods for association ID's and polymorphic type columns, but there is an alternative [166]:
+I usually just explicitly write the migration methods for association ID's and polymorphic type columns, but there is an alternative [166]:
 
     create_table :accounts do
       t.belongs_to(:person)
