@@ -67,7 +67,7 @@ You can designate attributes as readonly (primarily for calculated attribute) [1
       attr_readonly :social_security_number
     end
     
-Optimistic locking is a startegy for apps where collisions should be infrequent. Add `lock_version` column to a given table to make use of it. An `ActiveRecord::StaleObjectError` will be raised if a conflict is detected. [143]
+Optimistic locking is a strategy for apps where collisions should be infrequent. Add `lock_version` column to a given table to make use of it. An `ActiveRecord::StaleObjectError` will be raised if a conflict is detected. [143]
 
 Pessimistic Locking can basically be described with this code:
 
@@ -78,6 +78,10 @@ Pessimistic Locking can basically be described with this code:
     end
 
 Keep pessimistic locking transactions small and quick to execute. [145]
+
+(I did some more reading on locking. Some good links: [Dan Manges](http://www.dcmanges.com/blog/rails-optimistic-locking-isnt-a-silver-bullet), [Railscasts](http://railscasts.com/episodes/59-optimistic-locking), [Ryan's Scraps](http://ryandaigle.com/articles/2006/6/27/whats-new-in-edge-rails-pessimistic-locking). Basically what it comes down to is I haven't done a whole lot of work on sites that would benefit greatly from locking. CMS's, for instance, would greatly benefit from such a setup. In Harvest there is some opportunity: say if two administrators are simultaneously updating the same project. But primarily we just let the last person to save win. To this point the complexity introduced isn't quite worth the headaches saved for users. We'll see if we change our tune.)
+
+(Pessimistic locking requires even more logic built up around it. [This comment](http://www.dcmanges.com/blog/rails-optimistic-locking-isnt-a-silver-bullet#comment-754976) at Dan Manges site shows just how deep you can go in this scenario. And of course you could also avoid actual locking and just build in a warning system.)
 
 For long parameterized conditions, try bind variables instead of `?` [147]:
 
