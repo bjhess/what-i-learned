@@ -2,8 +2,8 @@ Doug Crockford
 Google Tech Talks  
 February, 2009  
 
-[](http://www.youtube.com/watch?v=hQVTIJBZook)  
-[](http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html)
+[http://www.youtube.com/watch?v=hQVTIJBZook](http://www.youtube.com/watch?v=hQVTIJBZook)  
+[http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html](http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html)
 
 Always use `===` instead of `==` as `===` doesn't do type coercion, which leads to weird comparisons around false, 'false', 0, etc. Also, prefer `!==`.
 
