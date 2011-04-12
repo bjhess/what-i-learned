@@ -1,7 +1,5 @@
-The Power of Less  
+[The Power of Less](http://www.amazon.com/dp/1401309704)  
 Leo Babauta
-
-[Book site](http://thepowerofless.com/)
 
 ### Quick Review
 
