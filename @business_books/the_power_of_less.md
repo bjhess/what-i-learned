@@ -30,6 +30,7 @@ Some questions to help you limit yourself: Which areas of my life are overwhelmi
 Being limitless is weak. Learn to focus yourself with limits and you'll increase your strength.
 
 Choosing the essential: 
+
 * What are your values? Values are simply knowing what things are most important to you. 
 * What are your goals? What do you want to achieve in life? How about over the next year/month/today? 
 * What has the biggest impact? If you have a choice to make between a list of projects or tasks, think about which project or task will make the biggest difference in your life or career.
@@ -43,6 +44,7 @@ Regular review: Choosing the essential is almost never a one-time decision.
 Focus: If you can maintain your focus on a goal or habit, you willmore often than not achieve that goal or create that habit.
 
 Single tasking examples:
+
 * First thing in the morning, work on your Most Important Task. Don't do anything else until this is done. Give yourself a short break, then start on your next Most Important Task. If you can get two to three of these done in the morning, the rest of the day is gravy.
 * When you are working on a task in a time block, turn off all other distractions. Shut off email and the entire Internet if possible.
 * If you feel the urge to check your email or switch to another task, stop yourself. Breathe deeply. Refocus yourself.
@@ -50,11 +52,13 @@ Single tasking examples:
 * Take deep breaths, stretch, and take breaks now and then. Enjoy life. Go outside and appreciate nature. Keep yourself sane.
 
 Focus on being present:
+
 * When you eat, just eat. The best way to think about being present is this: do just one thing at a time.
 * Be aware. Another important step is to become more aware of your thoughts.
 * Exercise. Exercise is [his] meditation. [He] runs and only runs. [He] focuses on [his] running, on [his] breathing, on [his] body, on nothing but the present. It's great practice.
 
 Create new habits with a 30-day challenge:
+
 * [I'm trying this](http://bjhess.com/blog/30_days_of_exercise/).
 * Select one habit for the challenge. Only one habit per month. You can choose any habit -- whatever you think will have the biggest impact on your life.
 * Write down your plan.
@@ -63,12 +67,14 @@ Create new habits with a 30-day challenge:
 * Celebrate your new habit! After thirty days, you will have a new habit. You will still need to make sure you do the habit each day, but it'll be fairly well entrenched if you were consistent all month.
 
 Why the 30-day challenge works:
+
 * Commitment. Just the act of committing to the Challenge, and setting a measurable goal, and declaring it to a bunch of others, is a huge step toward making the habit change a success.
 * Accountability. The daily check-in makes you want to do your daily habit.
 * Encouragement. There is also value in reporting your struggles.
 * Inspiration. When you see everyone else doing so great, it's inspiring. If they can do it, so can you!
 
 Rule for the 30-day challenge:
+
 * Do only one habit at a time.
 * Choose an easy goal. If you think you can exercise for thirty minutes a day, choose ten. If you want to wake up at 5am every day, start by waking up just 15 minutes earlier. Start a diet by making one healthy change to your diet, not a major overhaul. Making it super easy is one of the best ways to ensure you'll succeed.
 * Choose something measurable.
@@ -77,6 +83,7 @@ Rule for the 30-day challenge:
 * Keep positive.
 
 Example habits to try:
+
 * Set your 3 Most Important Tasks each morning.
 * Check email just twice a day.
 * Exercise five to ten minutes a day.
@@ -88,10 +95,12 @@ Example habits to try:
 Starting small seems like a powerful tool to me. From the book: Gradual change is longer lasting. Think of dieting -- when you go on a sever, drastic diet and you lose forty pounds in two months, it feels pretty great, but more often than not those forty pounds will come back and then some. But if you do small changes -- perhaps one to two pounds a week -- those pounds are much more likely to stay off. This has been proven repeatedly in weight loss studies and it works with any kind of change. Make gradual changes, in a series of small steps over time, and you're more likely to stick to those changes than if you attempt a big change all at once.
 
 Simpler than GTD project management:
+
 * List three most important projects on your Simple Project List. Everything else goes on a second, On Deck List.
 * Don't move any project from On Deck to the Simple Project List until _all_ three projects are done on the Simple Project List.
 
 Making daily Most Important Tasks (MIT) work:
+
 * Set them first thing in the morning (or the evening before).
 * Limit yourself to three.
 * Ensure that one MIT is goal-related or related to one of your top three projects.
@@ -113,11 +122,13 @@ Simple meditation technique: Sit somewhere comfortable, early in the morning, an
 Slow eating: A growing number of studies confirm that just by eating more slowly, you'll consume fewer calories -- in fact, enough to lose twenty pounds a year without doing anything different or eating anything different. (_ed: I'm not sure I believe this!_) The reason is that it takes about twenty minutes for our brains to register that we're full.
 
 Simple fitness plan:
+
 * Use the first month to focus exclusively on forming the exercise habit. (With easy workouts.)
 * The second month, while continuing the exercise habit, focus on making gradual, healthy change to your diet.
 * Every month thereafter, set short-term goals for gradual improvements in exercise and diet. Reward yourself each month for your progress and stay accountable to outhers for your fitness plan.
 
 Forming an exercise habit:
+
 * Start light.
 * Schedule your workout time.
 * Don't allow yourself to miss a day.
@@ -127,6 +138,7 @@ Forming an exercise habit:
 * Enjoy yourself.
 
 Diet tips:
+
 * Eat when you're lightly hungry. Not when you're ravenous. This means eating every 3-4 hours and paying more attention to your hunger.
 * Eat light foods. Lots of fruits and veggies, whole grains, beans and nuts.
 * Eat slowly.
