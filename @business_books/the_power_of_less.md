@@ -1,4 +1,4 @@
-The Power of Less
+The Power of Less  
 Leo Babauta
 
 [Book site](http://thepowerofless.com/)
