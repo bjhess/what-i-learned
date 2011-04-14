@@ -28,6 +28,8 @@ How did I never know how to test a named route in the console before? Hint: `app
   
     >> app.clients_url
     => "http://www.example.com/clients"
+
+(Unrelated hint, `helper` in console lets you call things like `link_to`. `helper.link_to ...`.)
   
 I sometimes forget what sugar works and what doesn't. `link_to` argument sugar shorthand:
 
