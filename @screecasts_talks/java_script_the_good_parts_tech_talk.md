@@ -16,6 +16,7 @@ He doesn't use `++` or `--` because in his experience he finds them tricky.
 Never intentionally fall through in a switch statement.
 
 Good parts:
+
 * Lambda - best thing ever in language
 * Dynamic objects
 * Loose typing
@@ -35,6 +36,7 @@ Power constructor ([more on inheritance from Crockford](http://javascript.crockf
     }
 
 We have closure. A function object contains:
+
 * a function (name, params, body)
 * a refernce to the environment in which it was created (context)
 
