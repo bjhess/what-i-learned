@@ -1,4 +1,4 @@
-[Switch: How to Change Things When Change Is Hard](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752)
+[Switch: How to Change Things When Change Is Hard](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752)  
 Chip Heath, Daniel Heath
 
 ### Quick Review
