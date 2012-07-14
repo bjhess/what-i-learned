@@ -58,4 +58,5 @@ On parenting: "As I see it, a parent's job is to encourage kids to develop a joy
 On taking care of oneself: "When we become physically or emotionally run down, we can't help anybody else, least of all small children. So there's nothing weak or selfish about taking some fraction of your day to be alone, recharging your batteries."
 
 On TV: "I'm not a fan of TV – it's mankind's greatest time-waster."
+
 Also, he loved old-fashioned, pen and paper thank-you notes. Me, too!
