@@ -7,7 +7,7 @@ The big takeaways here:
 
 1. BDD should help you write code. Not be busy work.
 2. Extra iterations is a sign of the wrong iterator.
-3. Tracking indexes or variables also a sing of the wrong iterator.
+3. Tracking indexes or variables also a sign of the wrong iterator.
 4. `case` is often just another `Array`.
 5. Write code to communicate to the reader. Figure out the underlying meaning.
 
