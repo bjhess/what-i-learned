@@ -1,4 +1,4 @@
-[Coders at Work](http://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/)
+[Coders at Work](http://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/)  
 Peter Seibel
 
 ### Quick Review
@@ -25,13 +25,13 @@ I see tests more as a way of correcting errors rather than as a way of design. I
 
 _Dan Ingalls_
 
-"Pair debugging" seems like something we do wells sometimes and could do more of. [395]
+"Pair debugging" seems like something we do well sometimes and we could do more of it. [395]
 
 When asked: Do you have any tips on how to be a good techincal leader?
 
 * The first thing is being clear about what you're trying to do.
 * Leave it open where they do their part of it.
-* Trust is part of it, trust fo the people that you're working with. The other thing is just confidence. When the picture's clear it's easy to be confident about it. [403]
+* Trust is part of it, trust of the people that you're working with. The other thing is just confidence. When the picture's clear it's easy to be confident about it. [403]
 
 I think it's worth it to take several different computing environments and then pick a problem to solve in them, which either reveals the strengths of the language or encourages you to somehow escape from it. [410]
 
@@ -59,7 +59,7 @@ It's just enthusiasm. You ask them what's the most interesting program they work
 
 _Fran Allen_
 
-[Learn] about programming and [learn] about a new language by taking an existing progra and studying it... take a program from somebody that I knew was a great programmer and read it. [489]
+[Learn] about programming and [learn] about a new language by taking an existing program and studying it... take a program from somebody that I knew was a great programmer and read it. [489]
 
 On hiring: If they don't get enthusiastic about something, they're not going to get charged up in a group. [500]
 
