@@ -7,6 +7,8 @@ Man, this thing is epic. I read it for 18 months at least. I simultaneously have
 
 Well worth your time, but plan to read it here and there for months.
 
+Luke Francl put together a [nice overview](http://www.recursion.org/2013/1/6/insights-from-coders-at-work) of his thoughts on the book as well.
+
 ### Notes
 
 Unfortunately I did not start writing down notes until about half way through the book.
