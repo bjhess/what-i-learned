@@ -1,4 +1,4 @@
-**[How Shopify Scales Rails](http://www.confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails)**
+**[How Shopify Scales Rails](http://www.confreaks.com/videos/2303-bigruby2013-how-shopify-scales-rails)**  
 John Duff
 
 51ms average response time?!
@@ -11,8 +11,8 @@ Know the most important part of the system to optimize:
 
 Calculating RPM:
 
-RPM = Workers * 60/Response time
-RPM = 1172 * 60 / 0.072
+RPM = Workers * 60/Response time  
+RPM = 1172 * 60 / 0.072  
 RPM = 976,666 (potential RPM)
 
 Increasing workers or decrease response time is how you improve. (Or reduce number of requests needed?)
