@@ -2,6 +2,8 @@
 
 Posgres does migrations near instantly. Can create indexes with little impact. Transactional migrations. Sounds like it solves a lot of pain MySQL has adjusting schemas on large tables.
 
+<img src="http://f.cl.ly/items/0G3Z2M3J3r0G2K3T2h1t/Image%202013.08.15%203%3A47%3A39%20PM.png" />
+
 Redis in front of Rails holy crap! Their balancing and pausing capabilities are pretty sweet. Web requests go into Redis, then they get sent to Rails, then Rails puts the response into Redis, which goes back to the requestor. This allows them to pause things in Redis for 20-30 seconds for quick maintenance without dropping requests.
 
 They also load balance most every integration point, involving writing some of their own software. Pretty neat.
