@@ -1,4 +1,6 @@
- JEG2's things  Things I learned or had forgotten.
+ [JEG2's things](https://speakerdeck.com/jeg2/10-things-you-didnt-know-rails-could-do).
+
+ Things I learned or had forgotten.
 
     # TODO: todo
     # FIXME: fixme
@@ -76,17 +78,7 @@ Magic inquiries:
     => true
 
 
-Avoid assignments in views with blocks.
-
-<img src="https://img.skitch.com/20120615-cfyb2qyxi37gspxprn2ht8brup.jpg" />
-
-Becomes:
-
-<img src="https://img.skitch.com/20120615-8gt82ui79tt9ejjb782x962gqw.jpg" />
-
-With:
-
-<img src="https://img.skitch.com/20120615-8gt82ui79tt9ejjb782x962gqw.jpg" />
+[Avoid assignments in views with blocks](https://gist.github.com/xdite/3109315#32-use-blocks-to-avoid-assignments-in-views).
 
 I'm not familiar with `content_tag_for` (new). Cool how it can act as an iterator over an array of objects as well!
 
