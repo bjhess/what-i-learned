@@ -1,4 +1,4 @@
-[The Little Book of Talent](http://smile.amazon.com/The-Little-Book-Talent-Improving/dp/034553025X)
+[The Little Book of Talent](http://smile.amazon.com/The-Little-Book-Talent-Improving/dp/034553025X)  
 Daniel Coyle
 
 I enjoyed the quick stories and tips in this book. Lots of interesting details about how some of the big talent-forming organizations do things a little differently than you're used to. I think it could be really useful not just for building one's own talents, but for helping others, like your children, work on their talents. Noting down some of the tips in the three sections of the book…
